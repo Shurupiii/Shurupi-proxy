@@ -46,14 +46,14 @@
 > "format": "binary",  
 > "tag": "refilter_domains",  
 > "type": "remote",  
-> "url": "\https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-domain-refilter_domains.srs\"  
+> "url": "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-domain-refilter_domains.srs\"  
 > },  
 > {  
 > "download_detour": "direct",  
 > "format": "binary",  
 > "tag": "refilter_ipsum",  
 > "type": "remote",  
-> "url": "\https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-ip-refilter_ipsum.srs\"  
+> "url": "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-ip-refilter_ipsum.srs\"  
 > }  
 > ]  
 > }  
@@ -293,7 +293,9 @@
 
 ### Дополнения к оригинальной статье от меня
 
-Если **не присылаются картинки в дс**, надо зайти в настройки, настройки маршрутов, базовые маршруты и в колонку Домен/Прокси (снизу посередине).![](https://i.postimg.cc/q7xxfwZW/Snimok-ekrana-2025-12-04-115647.png)
+Если **не присылаются картинки в дс**, надо зайти в настройки, настройки маршрутов, базовые маршруты и в колонку Домен/Прокси (снизу посередине).
+
+![](https://i.postimg.cc/q7xxfwZW/Snimok-ekrana-2025-12-04-115647.png)
 
 Также, если **сайты не грузятся**, или **грузятся без стилей** (оформления), то пропишите домен, к которому не может подключиться браузер, в колонку Домен/Прокси в формате:
 
@@ -469,4 +471,5 @@ IP-адреса пишутся через точку с запятой, напр
 Также, вы можете настраивать подобные параметры отдельно в настройках некоторых браузеров, например, в Firefox в разделе "Параметры соединения".
 
 [![Snimok-ekrana-2025-12-04-131511.png|700x156](https://i.postimg.cc/Twkj1wG6/Snimok-ekrana-2025-12-04-131511.png)](https://postimg.cc/dkyZSJLH)
+
 В С Ё
