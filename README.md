@@ -245,43 +245,65 @@
 Рулсеты, которые идут через прокси (не меняем)
 
 > "outbound": "proxy",
+> 
 > "rule_set": [
 
 ВСЕ домены, содержащие **ключевые слова** (н/п: если написать "discord", "bluesky", то все домены содержащие эти слова пойдут через прокси, но можно писать также и просто домены discord.app, bsky.app и др.) идущие через прокси.
 
->{
->"domain_keyword": [
->"xyz.com",
->"xyz"
->"outbound": "proxy"
->},
+> {
+> 
+> "domain_keyword": [
+> 
+> "xyz.com",
+> 
+> "xyz"
+> 
+> "outbound": "proxy"
+> 
+> },
 
 Домены, которые НЕ идут через прокси.
 
 > {
+> 
 > "domain_suffix": [
+> 
 > "syudadirectnazvaniedomena.com"
+> 
 > ],
+> 
 > "outbound": "direct"
+> 
 > },
 
 Процессы, идущие через прокси (смотреть название процесса в диспетчере задач).
 
 > {
+> 
 > "outbound": "proxy",
+> 
 > "process_name": [
+> 
 > "xyx.exe",
+> 
 > "xxx.exe"
+> 
 > ]
+> 
 > },
 
 Процессы, идущие НЕ через прокси (смотреть название процесса в диспетчере задач).
 
 > {
+> 
 > "outbound": "direct",
+> 
 > "process_name": [
+> 
 > "syudadirectnazvanieprocessa.exe"
+> 
 > ]
+> 
 > }
 
 
