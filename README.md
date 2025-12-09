@@ -258,6 +258,8 @@
 > 
 > "xyz"
 > 
+> ]
+> 
 > "outbound": "proxy"
 > 
 > },
