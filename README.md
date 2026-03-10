@@ -100,6 +100,14 @@
 > 
 > "browserleaks",
 > 
+> "blockbench",
+> 
+> "itch",
+> 
+> "modrinth",
+> 
+> "huggingface",
+> 
 > ".ggpht.com",
 > 
 > ".googlevideo.com",
@@ -172,13 +180,35 @@
 > 
 > ".lol",
 > 
+> "kappa.lol",
+> 
 > "noikcloud.xyz",
 > 
 > "docs.birds.land",
 > 
 > "prismlauncher.org",
 > 
-> "geoguessr.com"
+> "geoguessr.com",
+> 
+> "mcdle.net",
+> 
+> "imgur.com",
+> 
+> "roblox",
+> 
+> "rbxcdn",
+> 
+> "equestriaatwar",
+> 
+> "hypixel",
+> 
+> "minecraft",
+> 
+> "namemc",
+> 
+> "mcsrranked",
+> 
+> "geometrydash"
 > 
 > ],
 > 
@@ -188,9 +218,15 @@
 > 
 > {
 > 
-> "domain_suffix": [
+> "domain_keyword": [
 > 
-> "syudadirectnazvaniedomena.com"
+> "syudadirectnazvaniedomena.com",
+> 
+> "26.113.138.235",
+> 
+> "captcha",
+> 
+> "hcaptcha"
 > 
 > ],
 > 
@@ -214,13 +250,19 @@
 > 
 > "WhatsApp.exe",
 > 
+> "prismlauncher.exe",
+> 
 > "Telegram.exe",
 > 
-> "prismlauncher.exe",
+> "geometrydash.exe",
 > 
 > "robloxplayerbeta.exe",
 > 
-> "RobloxCrashHandler.exe"
+> "RobloxPlayerInstaller.exe",
+> 
+> "RobloxCrashHandler.exe",
+> 
+> "twitchlink.exe"
 > 
 > ]
 > 
@@ -394,22 +436,253 @@
 
 ### Список доменов для вставки в колонку Домен/Прокси:
 
+> 
+> domain:www.tunemymusic.com
+> 
+> domain:betterdiscord.app
+> 
+> domain:hideandseek.world
+> 
+> domain:grok.com
+> 
+> domain:slowroads.io
+> 
+> domain:makesweet.com
+> 
+> domain:mods.tildejustin.dev
+> 
+> domain:terraria.wiki.gg
+> 
+> domain:mineshield.store
+> 
+> domain:www.flightradar24.com
+> 
+> domain:kaomojis.wiki
+> 
+> domain:1000.menu
+> 
+> domain:msftauth.net
+> 
+> domain:tadst.com
+> 
+> domain:fandom.com
+> 
+> domain:libraryofbabel.info
+> 
+> domain:bannermode.netlify.app
+> 
+> domain:thewikihow.com
+> 
+> domain:www.obsidianstats.com
+> 
+> domain:zvukipro.com
+> 
+> domain:ficbook.net
+> 
+> domain:aeccafe.com
+> 
+> domain:mctiers.com
+> 
+> domain:github.io
+> 
+> domain:thecsdev.com
+> 
+> domain:mcsr.tv
+> 
+> domain:chatis.is2511.com
+> 
+> domain:obsproject.com
+> 
+> domain:thetimes.com
+> 
+> domain:streameq.xyz
+> 
+> domain:www.dcode.fr
+> 
+> domain:kagari.online
+> 
+> domain:tetr.io
+> 
+> domain:kagari.moe
+> 
+> domain:pr.alejo.io
+> 
+> domain:jsonformatter.org
+> 
+> domain:axiom.moulberry.com
+> 
+> domain:www.tampermonkey.net
+> 
+> domain:faithfulpack.net
+> 
+> domain:freetp.ru
+> 
+> domain:prod.website-files.com
+> 
+> domain:equestriaatwar.com
+> 
+> domain:uquiz.com
+> 
+> domain:hytale.com
+> 
+> domain:gamebanana.com
+> 
+> domain:clovi.art
+> 
+> domain:voicemeeter.com
+> 
+> domain:jsdelivr.net
+> 
+> domain:superworldbox.com
+> 
+> domain:nanobananana.com
+> 
+> domain:tap.link
+> 
+> domain:tools.2807.eu
+> 
+> domain:kylinariya.ru
+> 
+> domain:www.politicalcompass.org
+> 
+> domain:speedrun.com
+> 
+> domain:digitaloceanspaces.com
+> 
+> domain:chatterino.com
+> 
+> domain:twitchtracker.com
+> 
+> domain:howlongtobeat.com
+> 
+> domain:www.gamergeeks.net
+> 
+> domain:aternos.org
+> 
+> domain:character.ai
+> 
+> domain:voicemaster.xyz
+> 
+> domain:smallpdf.com
+> 
+> domain:vecpea.com
+> 
+> domain:miro.com
+> 
+> domain:taplink.cc
+> 
+> domain:builtwithscience.com
+> 
+> domain:human.biodigital.com
+> 
+> domain:chatterino.com
+> 
+> domain:convertcase.net
+> 
+> domain:geo.captcha-delivery.com
+> 
+> domain:minecraft.tools
+> 
+> domain:www.spigotmc.org
+> 
+> domain:worldedit.enginehub.org
+> 
+> domain:www.blockpalettes.com
+> 
+> domain:blockcolors.app
+> 
+> domain:img.buymeacoffee.com
+> 
+> domain:vb-audio.com
+> 
+> domain:mc-packs.net
+> 
+> domain:gstatic.com
+> 
+> domain:ezgif.com
+> 
+> domain:geochallenges.me
+> 
+> domain:easyaivoice.com
+> 
+> domain:voice-models.com
+> 
+> domain:mysql.com
+> 
+> domain:dev.mysql.com
+> 
+> domain:mirrors.aliyun.com
+> 
+> domain:download.pytorch.org
+> 
+> domain:www.resemble.ai
+> 
+> domain:framerusercontent.com
+> 
+> domain:birds.land
+> 
+> domain:gradle.org
+> 
+> domain:www.floodmap.net
+> 
+> domain:www.theunterminatedstring.com
+> 
+> domain:bsky.app
+> 
+> domain:www.sqlite.org
+> 
+> domain:pomofocus.io
+> 
+> domain:rave.dj
+> 
+> domain:www.file.io
+> 
+> domain:wiki.revivenode.com
+> 
+> domain:spark.lucko.me
+> 
+> domain:docs.zigythebird.com
+> 
+> domain:www.desmos.com
+> 
+> domain:spemotes.com
+> 
+> domain:lifeincoding.com
+> 
+> domain:www.freecodecamp.org
+> 
+> domain:terraformersmc.com
+> 
+> domain:curseforge.com
+> 
+> domain:wsrv.nl
+> 
+> domain:forgecdn.net
+> 
+> domain:f.11klasov.net
+> 
+> domain:crafting.thedestruc7i0n.ca
+> 
 > domain:static.spigotmc.org
 > 
 > domain:.steamstatic.com
 > 
+> domain:postimages.org
+> 
+> domain:postimgs.org
+> 
 > domain:toxigon.com
 > 
-> domain:mcsrranked.com
+> domain:reestr.rublacklist.net
 > 
-> domain:www\.mcdle.net
+> domain:mcsrranked.com
 > 
 > domain:betterttv.com
 > 
 > domain:thino.pkmer.net
 > 
-> domain:www\.youtube.com
-> 
+> domain:www.youtube.com
+>  
 > domain:wiki.chatterino.com
 > 
 > domain:youtube.com
@@ -469,7 +742,7 @@
 > domain:discord.design
 > 
 > domain:discord.dev
-> 
+>  
 > domain:discord.gg
 > 
 > domain:discord.gift
@@ -485,7 +758,7 @@
 > domain:discord.tools
 > 
 > domain:discordapp.com
-> 
+>
 > domain:discordapp.net
 > 
 > domain:discordmerch.com
@@ -501,7 +774,7 @@
 > regexp:youtube
 > 
 > regexp:beacons
-> 
+>
 > regexp:discord
 > 
 > domain:chat.is
@@ -518,9 +791,7 @@
 > 
 > domain:cdn.frankerfacez.com
 > 
-> domain:mc-packs.net
-> 
-> domain:rubukkit.org  
+> domain:rubukkit.org
 
 нажимаете ok, перезапускаете и всё работает!
 
