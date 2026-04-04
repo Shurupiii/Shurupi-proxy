@@ -9,11 +9,11 @@
         "hcaptcha"
     ],
     "domain_suffix": [
+        "postimg.cc",
         "ru",
         "su",
         "рф",
         "xn--p1ai",
-        "postimg.cc"
         "26.113.138.235"
     ],
     "outbound": "direct",
@@ -25,6 +25,8 @@
 ,{
     "action": "route",
     "domain_keyword": [
+        "oracle",
+        "hypixel",
         "reddit",
         "github",
         "youtube",
@@ -81,7 +83,6 @@
         "roblox",
         "rbxcdn",
         "equestriaatwar",
-        "hypixel",
         "minecraft",
         "namemc",
         "mcsrranked",
@@ -90,6 +91,7 @@
         "fortnite"
     ],
     "domain_suffix": [
+        "mc.hypixel.net",
         "bunny.net",
         "arena.ai",
         "sing-box.sagernet.org",
@@ -290,14 +292,6 @@
 ,{
     "action": "route",
     "outbound": "proxy",
-    "rule_set": [
-        "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-domain-refilter_domains.srs",
-        "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-ip-refilter_ipsum.srs"
-    ]
-}
-,{
-    "action": "route",
-    "outbound": "proxy",
     "process_name": [
         "Discord.exe",
         "chatterino.exe",
@@ -310,6 +304,14 @@
         "robloxplayerbeta.exe",
         "RobloxPlayerInstaller.exe",
         "RobloxCrashHandler.exe"
+    ]
+}
+,{
+    "action": "route",
+    "outbound": "proxy",
+    "rule_set": [
+        "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-domain-refilter_domains.srs",
+        "https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-ip-refilter_ipsum.srs"
     ]
 }
 ]
